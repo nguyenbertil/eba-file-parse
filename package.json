@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nguyenbertil/eba-file-parse/issues"
   },
-  "homepage": "https://github.com/nguyenbertil/eba-file-parse#readme"
+  "homepage": "https://github.com/nguyenbertil/eba-file-parse#readme",
+  "dependencies": {
+    "stream-json": "^1.7.4"
+  }
 }
