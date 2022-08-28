@@ -1,0 +1,19 @@
+{
+  "name": "eba-file-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenbertil/eba-file-parse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenbertil/eba-file-parse/issues"
+  },
+  "homepage": "https://github.com/nguyenbertil/eba-file-parse#readme"
+}
