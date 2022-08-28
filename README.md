@@ -1,2 +1,2 @@
 ## Usage
-`npm run start **FILENAME**`
+`npm run start FILENAME`
